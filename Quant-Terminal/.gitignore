@@ -1,0 +1,16 @@
+.venv/
+build/
+dist/
+*.egg-info/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+quant_terminal.db
+quant_terminal.db-wal
+quant_terminal.db-shm
+
