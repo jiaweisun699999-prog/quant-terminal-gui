@@ -2,6 +2,9 @@
 
 本地量化相关仓库。当前可运行程序在 **`Quant-Terminal/`** 目录。
 
+## 项目运行示例图
+<img width="2232" height="1184" alt="71ae38b1394fda1c74f493f12a31a346" src="https://github.com/user-attachments/assets/84b5bc99-f34c-4b3c-91f2-575233174622" />
+
 ## 新人从这里开始
 
 1. 克隆本仓库。
